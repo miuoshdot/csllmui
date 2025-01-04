@@ -1,0 +1,60 @@
+.block-container {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+}
+[data-testid="stSidebarHeader"] {
+  padding-bottom: 16px;
+}
+[data-testid="stSidebarUserContent"] {
+  padding-bottom: 24px;
+}
+[data-testid="stPopover"] svg {
+  display: none;
+}
+[data-testid="stExpander"] details summary p {
+  font-size: 1rem;
+}
+[data-testid="stCheckbox"] p {
+  font-size: 0.9rem;
+}
+[data-testid="stRadio"] p {
+  font-size: 0.9rem;
+}
+[data-testid="stSelectbox"] div {
+  font-size: 0.9rem;
+}
+[data-testid="stTextInput"] input {
+  font-size: 0.9rem;
+}
+[data-testid="stButtonGroup"] [data-testid="stWidgetLabel"] {
+  margin-bottom: 0.25rem;
+  justify-content: space-between;
+}
+[data-testid="stButtonGroup"] div {
+  row-gap: 0.35rem;
+}
+[data-testid="stBaseButton-pills"] p {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+[data-testid="stBaseButton-pillsActive"] p {
+  margin-left: 0.25rem;
+  margin-right: 0.25rem;
+}
+.st-key-OTHERS {
+  gap: 0.5rem;
+}
+[data-testid="stPopoverBody"] {
+  padding: 1rem;
+  margin-left: 0rem;
+  margin-right: 0rem;
+  margin-bottom: 0rem;
+}
+[data-testid="stPopoverBody"] [data-testid="stTextInput"] p {
+  margin-bottom: 0.15rem;
+  margin-left: 0.1rem;
+}
+.st-key-DESCRIPTION h3 {
+  padding-bottom: 0.5rem;
+  padding-top: 0.5rem;
+}
